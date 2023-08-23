@@ -12,5 +12,6 @@ sfd
 dfs
 dfs
 fsd
+kita adalah seseuatu ayang memiliki keinginan untuk menjadi yang tergbaik 
 
 sebuah aplikasi yang diinginkan untuk belajar
